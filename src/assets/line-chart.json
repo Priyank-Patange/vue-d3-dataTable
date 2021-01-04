@@ -1,0 +1,37 @@
+[
+    {
+        "month": [{"name": "Current", "value": "Jul, 2019"}, {"name": "Previous", "value": "Dec, 2018"}],
+        "categories": [{ "name": "Current", "amount": 67927.4099227488 }, { "name": "Previous", "amount": 32420 }], 
+        "lineCategory": [{ "name": "Current", "shipment": 43267 }, { "name": "Previous", "shipment": 25443 }] 
+    },
+    {
+        "month": [{"name": "Current", "value": "Aug, 2019"}, {"name": "Previous", "value": "Jan, 2019"}],
+        "categories": [{ "name": "Current", "amount": 68375.3398104608 }, { "name": "Previous", "amount": 46560 }], 
+        "lineCategory": [{ "name": "Current", "shipment": 64851 }, { "name": "Previous", "shipment": 57856 }] 
+    },
+    {
+        "month": [{"name": "Current", "value": "Sep, 2019"}, {"name": "Previous", "value": "Feb, 2019"}],
+        "categories": [{ "name": "Current", "amount": 39156.059905991 }, { "name": "Previous", "amount": 22220 }], 
+        "lineCategory": [{ "name": "Current", "shipment": 23523 }, { "name": "Previous", "shipment": 11000 }] 
+    },
+    {
+        "month": [{"name": "Current", "value": "Oct, 2019"}, {"name": "Previous", "value": "Mar, 2019"}],
+        "categories": [{ "name": "Current", "amount": 118114.580228645 }, { "name": "Previous", "amount": 53530 }], 
+        "lineCategory": [{ "name": "Current", "shipment": 65719 }, { "name": "Previous", "shipment": 14035 }] 
+    },
+    {
+        "month": [{"name": "Current", "value": "Nov, 2019"}, {"name": "Previous", "value": "Apr, 2019"}],
+        "categories": [{ "name": "Current", "amount": 71309.0299270526 }, { "name": "Previous", "amount": 11110 }], 
+        "lineCategory": [{ "name": "Current", "shipment": 33984 }, { "name": "Previous", "shipment": 73434 }] 
+    },
+    {
+        "month": [{"name": "Current", "value": "Dec, 2019"}, {"name": "Previous", "value": "May, 2019"}],
+        "categories": [{ "name": "Current", "amount": 62360.3499474824 }, { "name": "Previous", "amount": 70560 }], 
+        "lineCategory": [{ "name": "Current", "shipment": 53109 }, { "name": "Previous", "shipment": 11900 }] 
+    },
+    {
+        "month": [{"name": "Current", "value": "Dec, 2019"}, {"name": "Previous", "value": "Jun, 2019"}],
+        "categories": [{ "name": "Current", "amount": 0 }, { "name": "Previous", "amount": 25550 }], 
+        "lineCategory": [{ "name": "Current", "shipment": 0 }, { "name": "Previous", "shipment": 16000 }] 
+    }
+]
